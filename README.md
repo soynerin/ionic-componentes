@@ -15,3 +15,4 @@ Práctica utilizando todos los Componentes de IONIC
 - Ion Infinite Scroll
 - Ion Input
 - Ion List
+- Ion Reorder
