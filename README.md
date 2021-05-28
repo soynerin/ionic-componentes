@@ -20,3 +20,4 @@ Práctica utilizando todos los Componentes de IONIC
 - Ion Menu
   - Ion Menu Toggle
 - Ion Modal
+- Ion Popover
