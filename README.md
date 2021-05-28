@@ -17,3 +17,5 @@ Práctica utilizando todos los Componentes de IONIC
 - Ion List
 - Ion Reorder
 - Ion Loading
+- Ion Menu
+  - Ion Menu Toggle
