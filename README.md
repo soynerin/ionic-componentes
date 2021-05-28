@@ -16,3 +16,4 @@ Práctica utilizando todos los Componentes de IONIC
 - Ion Input
 - Ion List
 - Ion Reorder
+- Ion Loading
